@@ -1,4 +1,4 @@
-# Reflection Template
+# Reflection
 
 - **What changed from Project 1 to this workflow?**
   - This workflow almost exaclty copied the work I did manually from the first iteration of Project 1. It is awesome to see the ease to produce repeatable process that will be able to allow for more beneficial data analysis. The data table and visual output that it created looked different and was structured differently, however that was mostly due to the systems used in the workflow. During the first iteration of Project 1, I produced the comparable table manually and used Gemini to create the visual in Google Sheets. This produced a bit more appealing visual. However, if I was to use python during that iteration to produce the table and visual, like this workflow did, it would almost be identical to the workflow output.
